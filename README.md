@@ -2,3 +2,7 @@
 
 This script generates temporal URL of S3 object.
 Please read help message of this script to know the usage.
+
+```
+./generate_temporal_link.py --help
+```
